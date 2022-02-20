@@ -9,5 +9,5 @@ First, I used Least Squares Method for all 3 functions to train the model by fin
 
 # Result
 My program can determine the correct order and the model by plotting the fittings except noisy and small data files.
-I achieved a mark of 88 in this unit.
+I achieved a mark of 78 in this unit.
 
